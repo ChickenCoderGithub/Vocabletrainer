@@ -32,6 +32,7 @@ public class TestSettings implements Parcelable {
     public TestSettings(ArrayList<Integer> unitIds, int maxRate) {
         this.unitIds = unitIds;
         this.maxRate = maxRate;
+
     }
 
     protected TestSettings(Parcel in) {

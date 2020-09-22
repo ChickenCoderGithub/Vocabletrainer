@@ -123,6 +123,8 @@ public class Vocable implements TrainerItem, Parcelable {
         this.secondMeaningList = secondMeaningList;
     }
 
+
+    //@FelixSelterTodo save and load
     public void processAnswer(boolean correct) {
         if (correct) {
             this.correct++;

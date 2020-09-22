@@ -2,6 +2,7 @@ package com.rubengees.vocables.dialog;
 
 import android.app.Dialog;
 import android.app.DialogFragment;
+import android.content.SyncStatusObserver;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.TextInputLayout;
@@ -48,6 +49,7 @@ public class UnitDialog extends DialogFragment {
         dialog.setArguments(bundle);
 
         return dialog;
+
     }
 
     @Override

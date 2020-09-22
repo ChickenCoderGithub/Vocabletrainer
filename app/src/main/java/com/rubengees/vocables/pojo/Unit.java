@@ -123,6 +123,8 @@ public class Unit implements TrainerItem, Iterable<Vocable>, Comparable<Unit>, P
         return new ArrayList<>(vocables);
     }
 
+
+    //@FelixSelterTodo configure to return correct
     public List<Vocable> getVocables(int maxRate) {
         ArrayList<Vocable> result = new ArrayList<>();
 

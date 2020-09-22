@@ -19,6 +19,8 @@ import com.rubengees.vocables.utils.Utils;
 
 /**
  * Created by Ruben on 20.07.2015.
+ *
+ *  GETS CALLED WHEN THE VOCS WHERE SELECTED
  */
 public class TrainingTest extends Test {
 

@@ -66,6 +66,8 @@ public class TestSettingsFragment extends MainFragment implements TestSettingsLa
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+
+
         if (savedInstanceState == null) {
             mode = getArguments().getParcelable(KEY_MODE);
             settings = getArguments().getParcelable(KEY_TEST_SETTINGS);
@@ -77,6 +79,8 @@ public class TestSettingsFragment extends MainFragment implements TestSettingsLa
 
         layout = mode.getTestSettingsLayout(getActivity(), this);
         manager = Core.getInstance(getActivity()).getVocableManager();
+
+        System.out.println("...."+mode+" "+settings+" "+vocableAmount);
     }
 
     @Override

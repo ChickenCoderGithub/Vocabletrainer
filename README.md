@@ -5,7 +5,6 @@ The Source Code of this App: https://play.google.com/store/apps/details?id=com.r
 
 You can open Issues or make Pull Request if you want to. 
 
-
 Fork info:
 Becouse the developing of the app stopped I will try to fix 
 the mode where only vocabulary that has a high failure quote.
