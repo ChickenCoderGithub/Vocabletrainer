@@ -82,7 +82,8 @@ public class TrainingTestLogic extends TestLogic<TrainingTestSettings> {
         MeaningList answer = getAnswer();
         MeaningList given = correct ? answer : null;
 
-        processAnswerDontSave(current, question, answer, given, correct);
+        //@FelixSelter save test
+        processAnswer(current, question, answer, given, correct);
     }
 
     public MeaningList getQuestion() {

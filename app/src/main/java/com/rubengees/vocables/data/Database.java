@@ -62,12 +62,13 @@ public class Database extends SQLiteOpenHelper {
     private static final String COLUMN_MODE_AVERAGE_TIME = "mode_average_time";
     private static final String CREATE_TABLE_MODES = "create table " + TABLE_MODES + " ( " + COLUMN_MODE_ID + " integer, " + COLUMN_MODE_PLAYED + " integer, " + COLUMN_MODE_CORRECT + " integer, " +
             COLUMN_MODE_INCORRECT + " integer, " + COLUMN_MODE_PERFECT_IN_ROW + " integer, " + COLUMN_MODE_BEST_TIME + " integer, " + COLUMN_MODE_AVERAGE_TIME + " integer);";
+    public static Database instance;
 
     private Context context;
 
     public Database(Context context) {
         super(context, DATABASE, null, VERSION);
-
+        instance = this;
         this.context = context;
     }
 
@@ -140,10 +141,12 @@ public class Database extends SQLiteOpenHelper {
                         unitTitle = cursor.getString(3);
                     }
 
-                    Vocable vocable = new Vocable(id, new MeaningList(meanings1), new MeaningList(meanings2), correct, incorrect, hint, time);
+                    //set unit later
+                    Vocable vocable = new Vocable(id, new MeaningList(meanings1), new MeaningList(meanings2), correct, incorrect, hint, time, unitTitle);
 
                     if (vocables.containsKey(unitTitle)) {
                         vocables.get(unitTitle).add(vocable);
+
                     } else {
                         ArrayList<Vocable> list = new ArrayList<>(50);
                         vocables.put(unitTitle, list);
@@ -335,6 +338,7 @@ public class Database extends SQLiteOpenHelper {
         db.close();
     }
 
+    //@FelixSelter call after vocable processed answer
     public final void updateVocable(Unit containingUnit, Vocable vocable) {
         SQLiteDatabase db = this.getWritableDatabase();
         String[] id = new String[]{String.valueOf(vocable.getId())};
@@ -432,9 +436,11 @@ public class Database extends SQLiteOpenHelper {
                 MeaningList first = new MeaningList(generateMeanings(id, meanings1));
                 MeaningList second = new MeaningList(generateMeanings(id, meanings2));
 
-                Vocable vocable = new Vocable(id, first, second, correct, incorrect, hint, lastModificationTime);
-
                 int unitId = getUnitIdForVocable(unitVocable);
+
+
+                Vocable vocable = new Vocable(id, first, second, correct, incorrect, hint, lastModificationTime, result.get(unitId));
+
 
                 result.get(unitId).add(vocable);
             } while (vocables.moveToNext());
@@ -486,6 +492,7 @@ public class Database extends SQLiteOpenHelper {
     }
 
     private void update(SQLiteDatabase db, Mode mode) {
+
         ContentValues values = new ContentValues(7);
 
         values.put(COLUMN_MODE_ID, mode.getId());
@@ -518,7 +525,7 @@ public class Database extends SQLiteOpenHelper {
         return result;
     }
 
-    private int getUnitIdForVocable(Cursor unitVocable) {
+    public int getUnitIdForVocable(Cursor unitVocable) {
         int result = unitVocable.getInt(0);
 
         unitVocable.moveToNext();

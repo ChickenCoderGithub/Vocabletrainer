@@ -132,7 +132,7 @@ public class TransferUtils {
             if (split1.length >= 1 && split2.length >= 1) {
                 MeaningList first = new MeaningList(new ArrayList<>(Arrays.asList(split1)));
                 MeaningList second = new MeaningList(new ArrayList<>(Arrays.asList(split2)));
-                Vocable vocable = new Vocable(first, second, null, creationTime);
+                Vocable vocable = new Vocable(first, second, null, creationTime,unitTitle);
 
                 Unit unit;
 
@@ -181,7 +181,7 @@ public class TransferUtils {
                 unit.setTitle(parser.nextText());
                 parser.require(XmlPullParser.END_TAG, null, TAG_TITLE);
                 parser.nextTag();
-                unit.addAll(getVocablesFromXml(parser, creationTime));
+                unit.addAll(getVocablesFromXml(parser, creationTime,unit));
                 parser.require(XmlPullParser.END_TAG, null, TAG_UNIT);
 
                 result.add(unit);
@@ -197,7 +197,7 @@ public class TransferUtils {
         return result;
     }
 
-    private static List<Vocable> getVocablesFromXml(XmlPullParser parser, long creationTime)
+    private static List<Vocable> getVocablesFromXml(XmlPullParser parser, long creationTime,Unit unit)
             throws IOException, XmlPullParserException {
         List<Vocable> result = new ArrayList<>();
 
@@ -215,7 +215,7 @@ public class TransferUtils {
                 parser.require(XmlPullParser.START_TAG, null, TAG_SECOND_MEANING);
                 second = getMeaningFromXml(parser);
                 parser.require(XmlPullParser.END_TAG, null, TAG_SECOND_MEANING);
-                result.add(new Vocable(first, second, null, creationTime));
+                result.add(new Vocable(first, second, null, creationTime, unit));
             }
         }
         parser.require(XmlPullParser.END_TAG, null, TAG_VOCABLES);

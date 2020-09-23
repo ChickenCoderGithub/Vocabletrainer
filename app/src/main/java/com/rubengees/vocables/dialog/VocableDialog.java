@@ -58,6 +58,8 @@ public class VocableDialog extends DialogFragment {
     private ArrayAdapter<Unit> adapter;
     private boolean showSuggestions;
 
+
+
     public static VocableDialog newInstance(Integer unitId, Vocable vocable, Integer vocablePos) {
         VocableDialog dialog = new VocableDialog();
         Bundle bundle = new Bundle();
@@ -192,7 +194,8 @@ public class VocableDialog extends DialogFragment {
 
         if (vocable == null) {
             Vocable current = new Vocable(firstMeaningList, secondMeaningList, hint,
-                    System.currentTimeMillis());
+                    System.currentTimeMillis(),unit);
+
 
             if (callback != null) {
                 callback.onVocableAdded(unit, current);

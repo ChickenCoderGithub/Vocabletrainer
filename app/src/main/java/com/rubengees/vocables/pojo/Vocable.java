@@ -5,6 +5,8 @@ import android.os.Parcelable;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
+import com.rubengees.vocables.data.Database;
+
 /**
  * Created by Ruben on 24.04.2015.
  */
@@ -26,20 +28,35 @@ public class Vocable implements TrainerItem, Parcelable {
     private long lastModificationTime;
     private int correct;
     private int incorrect;
+    private Unit unit;
+    private String unittitle;
+
 
     public Vocable(@NonNull MeaningList firstMeaningList, @NonNull MeaningList secondMeaningList,
-                   @Nullable String hint, long lastModificationTime) {
+                   @Nullable String hint, long lastModificationTime,String unittitle) {
         this.firstMeaningList = firstMeaningList;
         this.secondMeaningList = secondMeaningList;
         this.hint = hint;
         this.lastModificationTime = lastModificationTime;
         this.correct = 0;
         this.incorrect = 0;
+        this.unittitle = unittitle;
+    }
+
+    public Vocable(@NonNull MeaningList firstMeaningList, @NonNull MeaningList secondMeaningList,
+                   @Nullable String hint, long lastModificationTime,Unit unit) {
+        this.firstMeaningList = firstMeaningList;
+        this.secondMeaningList = secondMeaningList;
+        this.hint = hint;
+        this.lastModificationTime = lastModificationTime;
+        this.correct = 0;
+        this.incorrect = 0;
+        this.unit = unit;
     }
 
     public Vocable(@NonNull Integer id, @NonNull MeaningList firstMeaningList,
                    @NonNull MeaningList secondMeaningList, int correct, int incorrect,
-                   @Nullable String hint, long lastModificationTime) {
+                   @Nullable String hint, long lastModificationTime, Unit unit) {
         this.id = id;
         this.firstMeaningList = firstMeaningList;
         this.secondMeaningList = secondMeaningList;
@@ -47,7 +64,22 @@ public class Vocable implements TrainerItem, Parcelable {
         this.lastModificationTime = lastModificationTime;
         this.correct = correct;
         this.incorrect = incorrect;
+        this.unit = unit;
     }
+
+    public Vocable(@NonNull Integer id, @NonNull MeaningList firstMeaningList,
+                   @NonNull MeaningList secondMeaningList, int correct, int incorrect,
+                   @Nullable String hint, long lastModificationTime, String unittitle) {
+        this.id = id;
+        this.firstMeaningList = firstMeaningList;
+        this.secondMeaningList = secondMeaningList;
+        this.hint = hint;
+        this.lastModificationTime = lastModificationTime;
+        this.correct = correct;
+        this.incorrect = incorrect;
+        this.unittitle = unittitle;
+    }
+
 
     protected Vocable(Parcel in) {
         this.id = (Integer) in.readValue(Integer.class.getClassLoader());
@@ -124,13 +156,25 @@ public class Vocable implements TrainerItem, Parcelable {
     }
 
 
-    //@FelixSelterTodo save and load
+    //@FelixSelterTodo save
     public void processAnswer(boolean correct) {
         if (correct) {
             this.correct++;
         } else {
             this.incorrect++;
         }
+        if (unit == null) {
+
+            for (Unit unit : Database.instance.getUnits().values()
+            ) {
+                if (unit.getTitle().equals(unittitle)) {
+                    this.unit = unit;
+                    System.out.println("Got unit by title " + unittitle);
+                    break;
+                }
+            }
+        }
+        Database.instance.updateVocable(unit, this);
     }
 
     public String getHint() {
