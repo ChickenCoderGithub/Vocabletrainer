@@ -15,7 +15,7 @@ My time is verry limited so Im not sure when Im able to work at this project.
 Status: Done but still have to make this readme looking pretty
 
 Downloads:
-Compiled: \app\app-release.apk 
+Compiled: https://drive.google.com/file/d/1UoodsXE5IRRwc8JkOD3aVuVWA27YBuAV/view?usp=sharing 
 (Its a security risk to install a precompiled apk from the internet)
 
 Guide to compile your self:
