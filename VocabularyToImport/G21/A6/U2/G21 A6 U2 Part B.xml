@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-16' standalone='yes' ?>
+<units>
+  <unit>
+    <title>G21 A6 U2 Part B</title>
+    <vocables>
+      <vocable>
+        <first_meaning>
+          <value>(to) back sth./sb.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>etwas/jn. unterstützen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) want sth. done</value>
+        </first_meaning>
+        <second_meaning>
+          <value>wollen</value>
+          <value>dass etwas geschieht; wollen</value>
+          <value>dass etwas getan wird</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>mature</value>
+        </first_meaning>
+        <second_meaning>
+          <value>reif</value>
+          <value>vernünftig</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) fear sth./sb.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>vor etwas/jn. Angst haben</value>
+          <value>etwas/jn. (be)fürchten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>findings</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Ergebnisse</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) argue</value>
+        </first_meaning>
+        <second_meaning>
+          <value>argumentieren</value>
+          <value>behaupten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>impact</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Auswirkung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>political</value>
+        </first_meaning>
+        <second_meaning>
+          <value>politisch</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) claim</value>
+        </first_meaning>
+        <second_meaning>
+          <value>behaupten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>party</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Partei</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) adopt</value>
+        </first_meaning>
+        <second_meaning>
+          <value>adoptieren; beschließen</value>
+          <value>sich entscheiden (für)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>policy (on)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Politik</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>element</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Element</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>further</value>
+        </first_meaning>
+        <second_meaning>
+          <value>weitere(r,s)</value>
+          <value>zusätzliche(r,s)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>given his intelligence</value>
+        </first_meaning>
+        <second_meaning>
+          <value>angesichts/bei seiner Intelligenz</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>laughable</value>
+        </first_meaning>
+        <second_meaning>
+          <value>lächerlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>prospect</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Aussicht</value>
+          <value>Vorstellung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>terrifying</value>
+        </first_meaning>
+        <second_meaning>
+          <value>schrecklich</value>
+          <value>unheimlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) rest</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ruhen</value>
+          <value>sich ausruhen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>peace</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Frieden</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>peaceful</value>
+        </first_meaning>
+        <second_meaning>
+          <value>friedlich; ruhig</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) fulfil (-ll-)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>erfüllen; ausführen</value>
+        </second_meaning>
+      </vocable>  
+	  <vocable>
+        <first_meaning>
+          <value>emphasis</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Betonung</value>
+		  <value>Hervorhebung</value>
+        </second_meaning>
+      </vocable>	  
+	  <vocable>
+        <first_meaning>
+          <value>(to) emphasize</value>
+        </first_meaning>
+        <second_meaning>
+          <value>etwas betonen</value>
+		  <value>etwas hervorheben</value>
+        </second_meaning>
+      </vocable> 
+	  <vocable>
+        <first_meaning>
+          <value>(to) sleep in</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ausschlafen</value>
+        </second_meaning>
+      </vocable>  
+	  <vocable>
+        <first_meaning>
+          <value>assignment</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Arbeit</value>
+		  <value>Aufgabe</value>
+		  <value>Auftrag</value>
+        </second_meaning>
+      </vocable>	  
+	  <vocable>
+        <first_meaning>
+          <value>relevant (to sth.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>relevant (für etwas)</value>
+        </second_meaning>
+      </vocable>
+	  
+    </vocables>
+  </unit>
+</units>

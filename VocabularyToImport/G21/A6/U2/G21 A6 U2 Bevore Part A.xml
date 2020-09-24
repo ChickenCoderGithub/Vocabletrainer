@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-16' standalone='yes' ?>
+<units>
+  <unit>
+    <title>G21 A6 U2 Bevore Part A</title>
+    <vocables>
+      <vocable>
+        <first_meaning>
+          <value>(to) stand up (for sth./sb.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>eintreten/sich einsetzen (für etwas/jn.)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>declaration</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Erklärung</value>
+          <value>Mitteilung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>human</value>
+        </first_meaning>
+        <second_meaning>
+          <value>menschlich</value>
+          <value>Menschen-</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>spirit</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Geist; Seele</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>brotherhood</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Brüderlichkeit</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>torture</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Folter</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>treatment</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Behandlung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>privacy</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Privatsphäre</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>belly</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Bauch</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) give in</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich ergeben</value>
+          <value>nachgeben</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) return</value>
+        </first_meaning>
+        <second_meaning>
+          <value>zurückkehren</value>
+        </second_meaning>
+      </vocable>
+    </vocables>
+  </unit>
+</units>

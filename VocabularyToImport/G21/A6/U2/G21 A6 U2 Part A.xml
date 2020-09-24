@@ -1,0 +1,593 @@
+<?xml version='1.0' encoding='UTF-16' standalone='yes' ?>
+<units>
+  <unit>
+    <title>G21 A6 U2 Part A</title>
+    <vocables>
+      <vocable>
+        <first_meaning>
+          <value>(to) speak out</value>
+        </first_meaning>
+        <second_meaning>
+          <value>seine Meinung (offen) sagen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>amendment (to sth.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(Ab-)Änderung (einer Sache); (oft Amendment) Verfassungszusatz (zur Verfassung der USA)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) explode</value>
+        </first_meaning>
+        <second_meaning>
+          <value>explodieren</value>
+          <value>ausrasten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>faint</value>
+        </first_meaning>
+        <second_meaning>
+          <value>schwach</value>
+          <value>leicht (ein wenig)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>tax</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Steuer</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>bubble</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(Luft-)Blase</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) complain (to sb. about sth./sb.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich beklagen/beschweren (bei jm. über etwas/jn.)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) be awake</value>
+        </first_meaning>
+        <second_meaning>
+          <value>wach sein</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>sympathetic</value>
+        </first_meaning>
+        <second_meaning>
+          <value>mitfühlend</value>
+          <value>verständnisvoll</value>
+          <value>wohlwollend</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>sympathy (for sb.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Mitgefühl</value>
+          <value>Verständnis</value>
+          <value>Anteilnahme (für jn.</value>
+          <value>jm. gegenüber)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) convince sb. (of sth.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jn. (von etwas) überzeugen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>backwards, backward (bes. AE)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>rückwärts</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>forwards, forward (bes. AE)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>vorwärts</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) figure sth. (out)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>etwas ausrechnen; etwas herausfinden (oft mit Zahlen)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>district</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Gegend</value>
+          <value>Bezirk</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>argument</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Argument</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>contribution</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Beitrag</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) contribute (sth.) (to/towards sth.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(etwas) beitragen; einen Beitrag leisten (für etwas)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>disagreement</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Uneinigkeit; Meinungsverschiedenheit</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>agreement</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Einigung; Vereinbarung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) challenge sb. (to sth.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jn. herausfordern (zu etwas)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>lazy</value>
+        </first_meaning>
+        <second_meaning>
+          <value>faul</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>no matter what</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ganz gleich, was</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>forces</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Kräfte</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>pressure</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Druck</value>
+          <value>Belastung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) debate (sth.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>debattieren (über etwas); hin und her überlegen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>constitution</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Verfassung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>citizenship</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Staatsangehörigkeit</value>
+          <value>Staatsbürgerschaft</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>citizen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(Staats-)Bürger/in</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>intolerant (of sth./sb.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>intolerant (etwas/jm. gegenüber)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>xenophobic</value>
+        </first_meaning>
+        <second_meaning>
+          <value>fremdenfeindlich</value>
+          <value>xenophob</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) turn sb./sth. into sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jn./etwas in etwas verwandeln</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>silence</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Stille</value>
+          <value>Schweigen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>silent</value>
+        </first_meaning>
+        <second_meaning>
+          <value>still</value>
+          <value>schweigend</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) influence</value>
+        </first_meaning>
+        <second_meaning>
+          <value>beeinflussen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>the press</value>
+        </first_meaning>
+        <second_meaning>
+          <value>die Presse</value>
+          <value>Zeitung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>assembly</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Versammlung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>eyebrow</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Augenbraue</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>authoritarian</value>
+        </first_meaning>
+        <second_meaning>
+          <value>autoritär</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) be fed up (with sth.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>die Nase voll haben (von etwas)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>dominant</value>
+        </first_meaning>
+        <second_meaning>
+          <value>dominant</value>
+          <value>vorherrschend</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>sarcastic</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sarkastisch</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) alarm sb.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jn. beunruhigen</value>
+          <value>erschrecken</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>attention</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Aufmerksamkeit</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) analyse</value>
+        </first_meaning>
+        <second_meaning>
+          <value>analysieren</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>facial</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Gesichts-</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>angle</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Winkel; Blickwinkel</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>low</value>
+        </first_meaning>
+        <second_meaning>
+          <value>niedrig</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>shot</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(Film-)Aufnahme</value>
+          <value>Dreh</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>controversy</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Auseinandersetzung</value>
+          <value>Kontroverse</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>communication</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Kommunikation</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) communicate (with sb.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(mit jm.) kommunizieren; sich (mit jm.) verständigen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>offensive</value>
+        </first_meaning>
+        <second_meaning>
+          <value>beleidigend</value>
+          <value>Anstoß erregend</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>significant</value>
+        </first_meaning>
+        <second_meaning>
+          <value>bedeutend</value>
+          <value>wichtig</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>male</value>
+        </first_meaning>
+        <second_meaning>
+          <value>männlich; männliche Person</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>female</value>
+        </first_meaning>
+        <second_meaning>
+          <value>weiblich; weibliche Person</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>depending (on)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>je nachdem (wie)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) adress sb.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jn. ansprechen</value>
+          <value>anreden</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>neutral</value>
+        </first_meaning>
+        <second_meaning>
+          <value>neutral</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>frequent</value>
+        </first_meaning>
+        <second_meaning>
+          <value>häufig</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) contain</value>
+        </first_meaning>
+        <second_meaning>
+          <value>enthalten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>precise</value>
+        </first_meaning>
+        <second_meaning>
+          <value>präzise</value>
+          <value>genau</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>decision (on sth.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Entscheidung (über etwas)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>humanitarian</value>
+        </first_meaning>
+        <second_meaning>
+          <value>humanitär</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>censorship</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Zensur</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>psychological</value>
+        </first_meaning>
+        <second_meaning>
+          <value>psychisch</value>
+          <value>psychologisch</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>psychology</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Psychologie</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>psychologist</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Psychologe</value>
+          <value>Psychologin</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>conflict</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Konflikt</value>
+          <value>Auseinandersetzung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>state</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Zustand</value>
+        </second_meaning>
+      </vocable>
+    </vocables>
+  </unit>
+</units>
