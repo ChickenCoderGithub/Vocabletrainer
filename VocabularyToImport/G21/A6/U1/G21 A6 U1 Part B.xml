@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-16' standalone='yes' ?>
+<units>
+  <unit>
+    <title>G21 A6 U1 Part B</title>
+    <vocables>
+      <vocable>
+        <first_meaning>
+          <value>addiction to sth</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Sucht nach etw</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>addict</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Süchtige(r)</value>
+          <value>Abhängige(r)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>nationwide</value>
+        </first_meaning>
+        <second_meaning>
+          <value>landesweit</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>study</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Studie</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to harm sb/sth</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jdn verletzen</value>
+          <value>etw schaden</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>harm</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Schaden</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>sympton</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Symptom</value>
+          <value>Anzeichen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to consider sb to be sth</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jdn als etw betrachten</value>
+          <value>jdn für etw halten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>chore</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Hausarbeit</value>
+          <value>lästige Pflicht</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>fortunately</value>
+        </first_meaning>
+        <second_meaning>
+          <value>glücklicherweise</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>unfortunately</value>
+        </first_meaning>
+        <second_meaning>
+          <value>leider</value>
+          <value>unglücklicherweise</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to be supposed to do/be</value>
+        </first_meaning>
+        <second_meaning>
+          <value>tun sollen; angeblich sein sollen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>coordination</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Koordination</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>in fact</value>
+        </first_meaning>
+        <second_meaning>
+          <value>um genau zu sein</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to take sth up</value>
+        </first_meaning>
+        <second_meaning>
+          <value>etw in Anspruch nehmen</value>
+          <value>etw einnehmen (Raum</value>
+          <value>Zeit)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>counsellor</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Berater/in</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to arrange</value>
+        </first_meaning>
+        <second_meaning>
+          <value>vereinbaren; planen; anordnen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>current</value>
+        </first_meaning>
+        <second_meaning>
+          <value>aktuelle(r,s)</value>
+          <value>gebräuchlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to refuse to do sth</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich weigern etw zu tun</value>
+          <value>ablehnen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>admit (-tt-)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>zugeben</value>
+          <value>eingestehen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>keen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>begeistert</value>
+          <value>leidenschaftlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>memory</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Erinnerung; Gedächtnis</value>
+          <value>Speicher (Computer)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>distant</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(weit) entfernt</value>
+          <value>fern</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>previous</value>
+        </first_meaning>
+        <second_meaning>
+          <value>frühere(r,s)</value>
+          <value>vorherige(r,s)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>search</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Suche</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to damage</value>
+        </first_meaning>
+        <second_meaning>
+          <value>beschädigen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>fate</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Schicksal</value>
+          <value>Bestimmung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>galaxy</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Galaxie</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>nightmare</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Alptraum</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>target</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Ziel(scheibe)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to accept</value>
+        </first_meaning>
+        <second_meaning>
+          <value>etw akzeptieren</value>
+          <value>annehmen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>certain</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sicher; bestimmt</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>certainly</value>
+        </first_meaning>
+        <second_meaning>
+          <value>bestimmt</value>
+          <value>auf jeden Fall</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>society</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(die) Gesellschaft</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>hopefully</value>
+        </first_meaning>
+        <second_meaning>
+          <value>hoffentlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>at first</value>
+        </first_meaning>
+        <second_meaning>
+          <value>zuerst</value>
+          <value>anfangs</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>even more/taller/...</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(sogar) noch mehr/größer/...</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>cigarette</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Zigarette</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>they ought to do more sport</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sie sollten mehr Sport treiben</value>
+        </second_meaning>
+      </vocable>
+    </vocables>
+  </unit>
+</units>

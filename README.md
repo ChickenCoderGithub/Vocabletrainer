@@ -14,6 +14,8 @@ Now I changed it so it will save the failure quote and also work in the training
 My time is verry limited so Im not sure when Im able to work at this project.
 Status: Done but still have to make this readme looking pretty
 
+Tell me if you got some exported vocabulary according to a book so Im able to upload it to the VocabImport folder
+
 Downloads:
 Compiled: https://drive.google.com/file/d/1UoodsXE5IRRwc8JkOD3aVuVWA27YBuAV/view?usp=sharing 
 (Its a security risk to install a precompiled apk from the internet)
