@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='UTF-16' standalone='yes' ?>
+<units>
+  <unit>
+    <title>G21 A6 U2 Part C</title>
+    <vocables>
+      <vocable>
+        <first_meaning>
+          <value>Zuschauer/in, "Dabeistehende(r)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>bystander</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>an etwas/jm. vorbeigehen/-fahren</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) pass sb./sth.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(in etwas) einsteigen, an Bord (von etwas) gehen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) board (sth.)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>gnadenlos</value>
+        </first_meaning>
+        <second_meaning>
+          <value>merciless</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>jn./etwas verteidigen (gegen jn./etwas)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) defend sb./sth. (against sb./sth.)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>drohend, bedrohlich</value>
+        </first_meaning>
+        <second_meaning>
+          <value>threatening</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>jn. bedrohen, jm. drohen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) threaten sb.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(etwas/jm.) ähnlich</value>
+        </first_meaning>
+        <second_meaning>
+          <value>similar (to sth./sb.)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>annehemen, ausgehen von</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) assume</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>bei/von etwas Zeuge sein</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) witness sth.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>reagieren (auf etwas); antworten (auf etwas)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) respond (to sth)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>bleiben</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) remain</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>etwas wahrscheinlich tun/sein</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) be likely to do/be sth.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>ein/e Notleidende(r)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sb. in need</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>da sein, anwesend sein, in der Nähe sein</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) be around</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>einzelne(r,s)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>individual</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>erheblich, beträchtlich</value>
+        </first_meaning>
+        <second_meaning>
+          <value>considerable</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>bereit/gewillt sein, etwas zu tun</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) be willing to do sth.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>vortreten, sich melden</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) step forward (-pp-)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Ungerechtigkeit, Unrecht</value>
+        </first_meaning>
+        <second_meaning>
+          <value>injustice</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Gerechtigkeit; Recht, Justiz</value>
+        </first_meaning>
+        <second_meaning>
+          <value>justice</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>etwas besuchen, an etwas teilnehmen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) attend sth.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(an-,fort)dauern</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) last</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Kosten</value>
+        </first_meaning>
+        <second_meaning>
+          <value>expense</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Gewaltlosigkeit, Gewaltfreiheit</value>
+        </first_meaning>
+        <second_meaning>
+          <value>non-violence</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Missverständnis</value>
+        </first_meaning>
+        <second_meaning>
+          <value>misunderstanding</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(für/gegen etwas) demonstrieren</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) demonstrate (for/against sth.)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>marschieren, demonstrieren</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) march</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Polizist/in</value>
+        </first_meaning>
+        <second_meaning>
+          <value>police officer</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>jn. verletzen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) injure sb.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>etwas einschränken; etwas beschränken/begrenzen (auf)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(to) limit sth. (to)</value>
+        </second_meaning>
+      </vocable>
+    </vocables>
+  </unit>
+</units>
