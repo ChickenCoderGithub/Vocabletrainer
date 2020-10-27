@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='UTF-16' standalone='yes' ?>
+<units>
+  <unit>
+    <title>G21 A6 U1 Part B</title>
+    <vocables>
+      <vocable>
+        <first_meaning>
+          <value>fragile</value>
+        </first_meaning>
+        <second_meaning>
+          <value>zerbrechlich</value>
+          <value>gebrechlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) release</value>
+        </first_meaning>
+        <second_meaning>
+          <value>freilassen (Gefangene); freisetzen</value>
+          <value>ablassen (Gas)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>heating</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Heizung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>appliance</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(Haushalts-) Gerät</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>kettle</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(Wasser-) Kessel</value>
+          <value>Wasserkocher</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) ration</value>
+        </first_meaning>
+        <second_meaning>
+          <value>rationieren</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>disgusting</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ekelhaft</value>
+          <value>widerlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) disgust</value>
+        </first_meaning>
+        <second_meaning>
+          <value>anwidern</value>
+          <value>anekeln</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>form</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Formular</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>basically</value>
+        </first_meaning>
+        <second_meaning>
+          <value>im Grunde</value>
+          <value>im Prinzip</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>fossil fuel</value>
+        </first_meaning>
+        <second_meaning>
+          <value>fossiler Brennstoff</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>loads of</value>
+        </first_meaning>
+        <second_meaning>
+          <value>viel</value>
+          <value>viele</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>pathetic</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jämmerlich</value>
+          <value>lächerlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>freezer</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Tiefkühlschrank</value>
+          <value>-schrank</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) freeze</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(ge) frieren</value>
+          <value>zufrieren</value>
+          <value>einfrieren</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) fade away</value>
+        </first_meaning>
+        <second_meaning>
+          <value>schwächer werden</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) sob</value>
+        </first_meaning>
+        <second_meaning>
+          <value>schluchzen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) unwrap</value>
+        </first_meaning>
+        <second_meaning>
+          <value>auspacken</value>
+          <value>auswickeln</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) wrap</value>
+        </first_meaning>
+        <second_meaning>
+          <value>einwickeln</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) swipe a card</value>
+        </first_meaning>
+        <second_meaning>
+          <value>eine Karte durchziehen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) hold sb./sth. up</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jn./etwas aufhalten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) pop somewhere</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(schnell) irgendwo hingehen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) rip sb. off</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jn. übers Ohr hauen</value>
+          <value>jn. abzocken</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>study</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Arbeitszimmer</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>evil</value>
+        </first_meaning>
+        <second_meaning>
+          <value>übel,schlimm,böse</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(ro) radiate</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ausstrahlen</value>
+          <value>abstrahlen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>wicked</value>
+        </first_meaning>
+        <second_meaning>
+          <value>böse</value>
+          <value>schlecht</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>24/7</value>
+        </first_meaning>
+        <second_meaning>
+          <value>rund um die Uhr</value>
+          <value>sieben Tage die Woche</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>meter</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(Gas-,Strom-) Zähler</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) melt</value>
+        </first_meaning>
+        <second_meaning>
+          <value>schmelzen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>blizzard</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Schneesturm</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>footage</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Film(material)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>chill</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Kühle</value>
+          <value>Kälte</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) creep</value>
+        </first_meaning>
+        <second_meaning>
+          <value>kriechen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) give sb. the creeps</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jm. unheimlich sein</value>
+          <value>jm. nicht geheuer sein</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) switch sth. on</value>
+        </first_meaning>
+        <second_meaning>
+          <value>etwas anschalten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) affect sth./sb.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>etwas/jn. betreffen</value>
+          <value>sich auf etwas/jn. auswirken</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>sex</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Geschlecht</value>
+        </second_meaning>
+      </vocable>
+    </vocables>
+  </unit>
+</units>

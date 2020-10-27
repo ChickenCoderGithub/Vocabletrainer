@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-16' standalone='yes' ?>
+<units>
+  <unit>
+    <title>G21 A6 U3 Before Part A</title>
+    <vocables>
+      <vocable>
+        <first_meaning>
+          <value>discovery</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Entdeckung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>steam engine</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Dampfmaschine</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>life sciences (pl)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Biowissenschaften</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>anatomy</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Anatomie</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>evolution</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Evolution</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>evolve</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich entwickeln</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>common</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Gemeinsam</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>invention</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Erfindung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>light bulb</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Glühlampe</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>renewable</value>
+        </first_meaning>
+        <second_meaning>
+          <value>erneuerbar</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>solar</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Solar-</value>
+          <value>Sonnen-</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>power</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Kraft</value>
+          <value>Energie</value>
+          <value>Strom</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>nuclear</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Kern-</value>
+          <value>Atom-,</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) power sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>etwas antreiben</value>
+          <value>etwas mit Energie versorgen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>genetic engineering</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Gentechnik</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) cure sth./sb.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>etwas/jn. heilen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>form (Deutsch: Form)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Gestalt</value>
+        </second_meaning>
+      </vocable>
+    </vocables>
+  </unit>
+</units>

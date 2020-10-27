@@ -1,0 +1,706 @@
+<?xml version='1.0' encoding='UTF-16' standalone='yes' ?>
+<units>
+  <unit>
+    <title>G21 A6 U3 Part A</title>
+    <vocables>
+      <vocable>
+        <first_meaning>
+          <value>captivate</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Faszinieren</value>
+          <value>Fesseln</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>interior</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Innere</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>core</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Kern</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) suspect</value>
+        </first_meaning>
+        <second_meaning>
+          <value>vermuten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>honesty</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Ehrlichkeit</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>initial</value>
+        </first_meaning>
+        <second_meaning>
+          <value>anfängliche(r,s)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) be based on sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>auf etwas basieren</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>motorist</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Autofahrer/in</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>edge</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Rand</value>
+          <value>Kante</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>gradual</value>
+        </first_meaning>
+        <second_meaning>
+          <value>allmählich</value>
+          <value>langsam</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>scientific</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(natur) wissenschaftlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>importance</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Wichtigkeit</value>
+          <value>Bedeutung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>realization</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Erkenntnis</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) consist of sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>aus etwas bestehen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>sphere</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Kugel</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>iron</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Eisen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>according to</value>
+        </first_meaning>
+        <second_meaning>
+          <value>laut</value>
+          <value>zufolge</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) occur to sb.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jm. einfallen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>concerned (about sth./sb.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>besorgt (um etwas/jn.)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) grip</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(von Film</value>
+          <value>Buch) fasseln</value>
+          <value>faszinieren</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>urge</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Bedürfnis</value>
+          <value>Verlangen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>amazement</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Erstaunen</value>
+          <value>Verwunderung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>universe</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Universum</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) predict</value>
+        </first_meaning>
+        <second_meaning>
+          <value>voraussagen</value>
+          <value>vorhersagen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>umbrella</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Regenschirm</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) obtain</value>
+        </first_meaning>
+        <second_meaning>
+          <value>erhalten</value>
+          <value>erwerben</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>crucial</value>
+        </first_meaning>
+        <second_meaning>
+          <value>äußerst wichtig</value>
+          <value>entscheidend</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>evidence (no pl)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Beweis(e)</value>
+          <value>Hinweis(e)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) orbit sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>etwas umkreisen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) fail (to do sth.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>versagen (beim Versuch</value>
+          <value>etwas zu tun)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) distinguish A from B</value>
+        </first_meaning>
+        <second_meaning>
+          <value>A von B unterscheiden</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>rather</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ziemlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>complicated</value>
+        </first_meaning>
+        <second_meaning>
+          <value>kompliziert</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>for</value>
+        </first_meaning>
+        <second_meaning>
+          <value>denn</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) turn out (to be sth.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich (als etwas) herausstellen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) establish</value>
+        </first_meaning>
+        <second_meaning>
+          <value>feststellen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>solution (to)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(Auf-) Lösung (für)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>notion</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Vorstellung</value>
+          <value>Idee</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>predecessor</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Vorgänger/in</value>
+          <value>Vorläufer/in</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>remarkable</value>
+        </first_meaning>
+        <second_meaning>
+          <value>beachtlich</value>
+          <value>außergewöhnlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>since</value>
+        </first_meaning>
+        <second_meaning>
+          <value>weil</value>
+          <value>da</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>by no means</value>
+        </first_meaning>
+        <second_meaning>
+          <value>keineswegs</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>object</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Gegenstand</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) adjust (to)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(sich) einstellen (auf)</value>
+          <value>(sich) anpassen (an)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>lens</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Linse (in der Optik)</value>
+          <value>(Brillen-) Glas</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>tailor</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Schneider/in</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>needle</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Nadel</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) be able to afford sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich etwas leisten können</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) come into focus</value>
+        </first_meaning>
+        <second_meaning>
+          <value>scharf werden</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) grin</value>
+        </first_meaning>
+        <second_meaning>
+          <value>grinsen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) aim (at)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>beabsichtigen</value>
+          <value>zielen (auf)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) provide sb. with sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jm. etwas zur Verfügung stellen</value>
+          <value>jn. mit etwas ausstatten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>access (to)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Zugang (zu)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>wages (pl)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Lohn</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) acknowledge</value>
+        </first_meaning>
+        <second_meaning>
+          <value>zugeben</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>thick</value>
+        </first_meaning>
+        <second_meaning>
+          <value>dick</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>frame</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Gestell</value>
+          <value>Rahmen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>thin</value>
+        </first_meaning>
+        <second_meaning>
+          <value>dünn</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>syringe</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Injektionsspritze</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>oil</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Öl</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) remove</value>
+        </first_meaning>
+        <second_meaning>
+          <value>entfernen</value>
+          <value>beseitigen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>resistance (no pl)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Widerstand</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>vision</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Sehvermögen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>substantial</value>
+        </first_meaning>
+        <second_meaning>
+          <value>erheblich</value>
+          <value>beträchtlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>amount (of)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Menge</value>
+          <value>Betrag</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) reflect</value>
+        </first_meaning>
+        <second_meaning>
+          <value>zurückwerfen</value>
+          <value>reflektieren</value>
+          <value>spiegeln</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) transfer</value>
+        </first_meaning>
+        <second_meaning>
+          <value>übertragen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) drive</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(an) treiben</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) generate</value>
+        </first_meaning>
+        <second_meaning>
+          <value>erzeugen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>photosynthesis</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Photosynthese</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) absorb</value>
+        </first_meaning>
+        <second_meaning>
+          <value>absorbieren</value>
+          <value>aufnehmen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) store</value>
+        </first_meaning>
+        <second_meaning>
+          <value>speichern</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) capture</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(ein) fangen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) convert</value>
+        </first_meaning>
+        <second_meaning>
+          <value>umwandeln</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) emit</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ausstoßen</value>
+          <value>freisetzen</value>
+          <value>abgeben</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>emission</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Emission</value>
+          <value>(Schadstoff-) Ausstoß</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>carbon dioxide (CO2)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Kohlendioxid (CO2)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>root</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Wurzeln</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>leaf, pl leaves</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Blatt</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>tonne</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Tonne (Gewichtseinheit)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>(to) discuss sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>über etwas diskutieren</value>
+          <value>etwas besprechen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>appropriate</value>
+        </first_meaning>
+        <second_meaning>
+          <value>passend</value>
+          <value>angemessen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>recipe</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Kochrezept</value>
+        </second_meaning>
+      </vocable>
+    </vocables>
+  </unit>
+</units>
