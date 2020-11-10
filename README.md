@@ -17,7 +17,7 @@ Status: Done but still have to make this readme looking pretty
 Tell me if you got some exported vocabulary according to a book so Im able to upload it to the VocabImport folder
 
 Downloads:
-Compiled: https://drive.google.com/file/d/1UoodsXE5IRRwc8JkOD3aVuVWA27YBuAV/view?usp=sharing 
+Compiled: https://bit.ly/VocableTrainer
 (Its a security risk to install a precompiled apk from the internet)
 
 Guide to compile your self:
