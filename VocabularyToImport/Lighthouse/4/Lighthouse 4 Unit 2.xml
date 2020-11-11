@@ -1,0 +1,1073 @@
+<?xml version='1.0' encoding='UTF-16' standalone='yes' ?>
+<units>
+  <unit>
+    <title>Lighthouse 4 Unit 2</title>
+    <vocables>
+      <vocable>
+        <first_meaning>
+          <value>lion</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Löwe</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>position</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Position</value>
+          <value>Stelle</value>
+          <value>Platz</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>available</value>
+        </first_meaning>
+        <second_meaning>
+          <value>erhältlich</value>
+          <value>verfügbar</value>
+          <value>(Stelle) frei</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>photographer</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Fotograf/in</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>anytime</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jederzeit</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to get lost</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich verirren</value>
+          <value>sich verlaufen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>I don't mind ...</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Es macht mir nichts aus ...</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>grade (AE)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Klassenstufe</value>
+          <value>Jahrgang</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>intimidating</value>
+        </first_meaning>
+        <second_meaning>
+          <value>beängstigend</value>
+          <value>einschüchternd</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>ancient</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(ur)alt</value>
+          <value>antik</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to change</value>
+        </first_meaning>
+        <second_meaning>
+          <value>wechseln</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>They had to change their plans.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Sie mussten ihre Pläne ändern.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>He has changed a lot recently.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Er hat sich in letzter Zeit sehr verändert.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>American kids change rooms between classes.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Amerikanische Kinder wechseln das Klassenzimmer zwischen Unterrichtsstunden.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Can you change your cloths before we go?</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Kannst du deine Kleidung bevor wir gehen wechseln?</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Give me five minutes. I'd like to change first.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Gib mir 5 Minuten. Ich möchte mich erst umziehen.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>library</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Bücherei</value>
+          <value>Bibliothek</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to trust</value>
+        </first_meaning>
+        <second_meaning>
+          <value>trauen</value>
+          <value>vertrauen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to debate</value>
+        </first_meaning>
+        <second_meaning>
+          <value>debattieren</value>
+          <value>diskutieren</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>incredible</value>
+        </first_meaning>
+        <second_meaning>
+          <value>unglaublich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>I didn't know anybody.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Ich kannte niemanden.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>disability</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Behinderung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Plus, ...</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Und außerdem ...</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>elevator (AE)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Fahrstuhl</value>
+          <value>Aufzug</value>
+          <value>Lift</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>size</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Größe</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>hallway</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Korridor</value>
+          <value>Gang</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>locker</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Spind</value>
+          <value>Schließfach</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>highlight</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Höhepunkt</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>common</value>
+        </first_meaning>
+        <second_meaning>
+          <value>häufig</value>
+          <value>weit verbreitet</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>... are organized ...</value>
+        </first_meaning>
+        <second_meaning>
+          <value>... werden organisiert</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>as much as ...</value>
+        </first_meaning>
+        <second_meaning>
+          <value>bis zu ...; nicht weniger als ...</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to cost a fortune</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ein Vermögen kosten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>fund-raising event</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Event zur Beschaffung von Geld/Spenden</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>so that</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sodass</value>
+          <value>damit</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to rent</value>
+        </first_meaning>
+        <second_meaning>
+          <value>mieten</value>
+          <value>leihen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>the only one</value>
+        </first_meaning>
+        <second_meaning>
+          <value>der/die/das Einzige</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>date</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Verabredung</value>
+          <value>Date (auch die Person mit der man ausgeht "He is my date.")</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>contract</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Vertrag</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to get drunk</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich betrinken</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to sign</value>
+        </first_meaning>
+        <second_meaning>
+          <value>unterschreiben</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to promise</value>
+        </first_meaning>
+        <second_meaning>
+          <value>versprechen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to behave</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich verhalten</value>
+          <value>sich benehmen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>alcohol</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Alkohol</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>drug</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Droge</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to break, broke, broken</value>
+        </first_meaning>
+        <second_meaning>
+          <value>kaputt gehen</value>
+          <value>kaputt machen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>flute</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Querflöte</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to look forward to doing sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich darauf freuen</value>
+          <value>etwas zu tun</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>We look forward to hearing from you.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Wir freuen uns darauf von dir zu hören.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>I look forward to playing soccer in the afternoon.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Ich freue mich darauf am Nachmittag Fußball zu spielen.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to get used to sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich an etwas gewöhnen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>We got used to drving on the left.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Wir gewöhnten uns daran</value>
+          <value>links zu fahren.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>I got used to learning vocabulary every day.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Ich gewöhnte mich daran</value>
+          <value>jeden Tag Vokabeln zu lernen.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to bump into sb.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>mit jm. zusammenstoßen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to dream about/of</value>
+        </first_meaning>
+        <second_meaning>
+          <value>träumen von</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>cheerleader</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Cheerleader (Stimmungsanheizer/in bei Sportereignissen)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to cheer</value>
+        </first_meaning>
+        <second_meaning>
+          <value>jubeln</value>
+          <value>(Sportler/innen) anfeuern</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to discuss sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>über etwas diskutieren; etwas besprechen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to argue</value>
+        </first_meaning>
+        <second_meaning>
+          <value>argumentieren</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>artistic</value>
+        </first_meaning>
+        <second_meaning>
+          <value>künstlerisch; auch: künstlerisch begabt</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to volunteer</value>
+        </first_meaning>
+        <second_meaning>
+          <value>frewillig/ehrenamtlich arbeiten (unbezahlt)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to start with, ...</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Erstens ...; Zunächst ...; Zuerst einmal ...</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>... is a must.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>... ist ein Muss.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to try hard</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich sehr bemühen</value>
+          <value>sich anstrengen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>a piece of advice</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ein Rat</value>
+          <value>ein Ratschlag</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>preposition</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Präposition</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>likes and dislikes</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Vorlieben und Abneigungen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to communicate with sb.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>mit jm. kommunizieren</value>
+          <value>sich mit jm. verständigen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>community service</value>
+        </first_meaning>
+        <second_meaning>
+          <value>gemeinnützige Arbeit</value>
+          <value>Sozialdienst</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to roll</value>
+        </first_meaning>
+        <second_meaning>
+          <value>rollen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to go off</value>
+        </first_meaning>
+        <second_meaning>
+          <value>losgehen (Wecker</value>
+          <value>Alarm</value>
+          <value>...)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>shorts (pl.)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Shorts</value>
+          <value>kurze Hose</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>clean (adjective)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sauber</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>like that</value>
+        </first_meaning>
+        <second_meaning>
+          <value>so</value>
+          <value>auf diese Weise</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to ignore</value>
+        </first_meaning>
+        <second_meaning>
+          <value>nicht beachten</value>
+          <value>ignorieren</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>grocery store</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Lebensmittelgeschäft</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to push</value>
+        </first_meaning>
+        <second_meaning>
+          <value>schieben</value>
+          <value>stoßen</value>
+          <value>drücken</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Do you mind?</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Entschuldige mal!/Was fällt dir ein?</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>smart</value>
+        </first_meaning>
+        <second_meaning>
+          <value>smart</value>
+          <value>schlau</value>
+          <value>clever</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>during</value>
+        </first_meaning>
+        <second_meaning>
+          <value>während</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>cheek</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Wange</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Hurry up.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Beeil dich.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>excitement</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Aufregung</value>
+          <value>Begeisterung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>movie</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(AE) Film</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>prison</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Gefängnis</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>I was arrested.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Ich wurde verhaftet./Ich wurde festgenommen.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to keep away from sb.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich fernhalten von jm.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>lobby</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Eingangshalle</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>responsible</value>
+        </first_meaning>
+        <second_meaning>
+          <value>verantwortungsbewusst</value>
+          <value>verantwortlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>corner</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Ecke; (Mund-</value>
+          <value>Augen-) Winkel</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to seem</value>
+        </first_meaning>
+        <second_meaning>
+          <value>scheinen (anscheinend sein)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to hold, held, held</value>
+        </first_meaning>
+        <second_meaning>
+          <value>halten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>belly button</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Bauchnabel</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to kill</value>
+        </first_meaning>
+        <second_meaning>
+          <value>töten</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to head for sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>auf etwas zugehen/zusteuern</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to fix sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>etwas in Ordnung bringen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>tooth, pl. teeth</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Zahn</value>
+          <value>Zähne</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Are you kidding?</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Machst du Witze?/Willst du mich auf den Arm nehmen?</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>whole</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ganze(r,s)</value>
+          <value>gesamte(r,s)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>image</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Image</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>announcement</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Durchsage</value>
+          <value>Ansage</value>
+          <value>Bekanntgabe</value>
+          <value>Ankündigung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>off the seats/the bridge/the bike/...</value>
+        </first_meaning>
+        <second_meaning>
+          <value>von den Sitzen/der Brücke/dem Rad/... (herunter)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>belongings (pl)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Sachen</value>
+          <value>Hab und Gut</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>memorial to sb./sth.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Denkmal für jn.</value>
+          <value>etwas</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>visitor pass</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Besucherausweis</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>editor</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Herausgeber/in</value>
+          <value>Redakteur/in</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>tough</value>
+        </first_meaning>
+        <second_meaning>
+          <value>(knall)hart</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>tradition</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Tradition</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Thanksgiving</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Erntedankfest (amerikanischer Feiertag am vierten Donnerstag)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to dress</value>
+        </first_meaning>
+        <second_meaning>
+          <value>sich anziehen</value>
+          <value>sich kleiden</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>spirit</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Geist</value>
+          <value>Stimmung</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>aggressive</value>
+        </first_meaning>
+        <second_meaning>
+          <value>aggressive</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>while</value>
+        </first_meaning>
+        <second_meaning>
+          <value>während (vor einem Nebensatz)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>during</value>
+        </first_meaning>
+        <second_meaning>
+          <value>während (vor einem Nomen)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Jack phoned during the football match.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Jack rief während des Fußballspiels an.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Jack phoned while we were watching the football match.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Jack rief an</value>
+          <value>während wir das Fußballspiel schauten.</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to be banned</value>
+        </first_meaning>
+        <second_meaning>
+          <value>verboten sein/warden</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Sincerely, ...</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Mit freundlichen Grüßen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to end</value>
+        </first_meaning>
+        <second_meaning>
+          <value>enden</value>
+          <value>zu Ende gehen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to compare</value>
+        </first_meaning>
+        <second_meaning>
+          <value>vergleichen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to smoke</value>
+        </first_meaning>
+        <second_meaning>
+          <value>rauchen</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>dress</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Kleid</value>
+          <value>Kleidung</value>
+          <value>sich kleiden</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>appropriate</value>
+        </first_meaning>
+        <second_meaning>
+          <value>angemessen</value>
+          <value>passend</value>
+          <value>geeignet</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>similar to sth./sb.</value>
+        </first_meaning>
+        <second_meaning>
+          <value>etwas/jm. ähnlich</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>in some ways</value>
+        </first_meaning>
+        <second_meaning>
+          <value>in mancher Hinsicht</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>to improve</value>
+        </first_meaning>
+        <second_meaning>
+          <value>verbessern</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>advantage</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Vorteil</value>
+        </second_meaning>
+      </vocable>
+    </vocables>
+  </unit>
+</units>
